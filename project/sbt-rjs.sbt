@@ -1,0 +1,1 @@
+addSbtPlugin("com.typesafe.sbt" % "sbt-rjs" % "1.0.7")
